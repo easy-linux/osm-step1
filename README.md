@@ -20,3 +20,4 @@ https://github.com/easy-linux/node-install
 [![](https://img.youtube.com/vi/gP4OPx2vBoc/0.jpg)](https://youtu.be/gP4OPx2vBoc)
 
 
+## Установка необходимых пакетов
